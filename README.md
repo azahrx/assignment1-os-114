@@ -1,5 +1,5 @@
 # Assignment 1 Operating System
- Fathimah Az Zahra
- 1313618012
- 
+ Nama  : Fathimah Az Zahra
+ NIM   : 1313618012
+ Prodi : Ilmu Komputer Angkatan 2018
  
